@@ -517,6 +517,12 @@ video {
 .mt-\[26px\] {
   margin-top: 26px;
 }
+.mr-2 {
+  margin-right: 0.5rem;
+}
+.inline-block {
+  display: inline-block;
+}
 .flex {
   display: flex;
 }
