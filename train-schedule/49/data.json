@@ -1,0 +1,32 @@
+[
+    {
+        "title": "রাজবাড়ী স্টেশন",
+        "image": "train-schedule/49/images/rajbari.jpg",
+        "html": "train-schedule/49/rajbari-sadar.html"
+    },
+    {
+        "title": "গোয়ালন্দ ঘাট স্টেশন",
+        "image": "train-schedule/49/images/goalanda.jpg",
+        "html": "train-schedule/49/rajbari-sadar.html"
+    },
+    {
+        "title": "পাংশা স্টেশন",
+        "image": "train-schedule/49/images/rajbari.jpg",
+        "html": "train-schedule/49/rajbari-sadar.html"
+    },
+    {
+        "title": "কালুখালী স্টেশন",
+        "image": "train-schedule/49/images/kalukhali.jpg",
+        "html": "train-schedule/49/rajbari-sadar.html"
+    },
+    {
+        "title": "বালিয়াকান্দি স্টেশন",
+        "image": "train-schedule/49/images/goalanda.jpg",
+        "html": "train-schedule/49/rajbari-sadar.html"
+    },
+    {
+        "title": "ভাটিয়াপাড়া স্টেশন",
+        "image": "train-schedule/49/images/kalukhali.jpg",
+        "html": "train-schedule/49/rajbari-sadar.html"
+    }
+]
