@@ -4,9 +4,270 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Train Schedule</title>
-    <link rel="stylesheet" href="../public/css/app.css">
+    <link rel="stylesheet" href="../../public/css/app.css">
 </head>
-<body>
-    <h1>Hello World</h1>
+<body class="p-3">
+    <!-------up train start--------->
+    <div class="mb-4 flex justify-center">
+        <div class="py-1 px-6 border border-primary-gray1 rounded-[4px] w-[130px]">
+            <p class="font-inter text-sm font-normal text-primary-green">আপ ট্রেন সমূহ</p>
+        </div>
+    </div> 
+    <!-------sondorbon express start---------->
+    <div class="p-4 rounded-xl bg-primary-gray mb-4">
+        <h2 class="text-base font-inter font-semibold text-primary-dark">সুন্দরবন এক্সপ্রেস</h2>
+        <div class="flex  justify-between items-center mb-2">
+            <p class="text-sm font-inter font-normal text-primary-dark">ট্রেনের ধরনঃ আন্তঃনগর</p>
+            <p class="text-xs font-inter font-normal text-primary-red">ট্রেন চলাচল বন্ধঃ বুধবার</p>
+        </div>
+        <div class="mb-2 rounded-lg">
+            <table class="border-collapse border-[0.5px] border-primary-gray2 w-full text-center">
+                <thead>
+                  <tr class="bg-primary-green2">
+                    <th class="border-[0.5px] border-primary-gray2 p-2">
+                        <p class="text-sm font-inter font-medium text-primary-dark">প্রারম্ভিক স্টেশন</p>
+                    </th>
+                    <th class="border-[0.5px] border-primary-gray2">
+                        <p class="text-sm font-inter font-medium text-primary-dark">গন্তব্য স্টেশন</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="border-[0.5px] border-primary-gray2 p-2">
+                        <p class="text-sm font-inter font-normal text-primary-default">খুলনা</p>
+                    </td>
+                    <td class="border-[0.5px] border-primary-gray2">
+                        <p class="text-sm font-inter font-normal text-primary-default">ঢাকা</p>
+                    </td>
+                  </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="rounded-lg">
+            <table class="border-collapse border-[0.5px] border-primary-gray2 w-full text-center">
+                <thead>
+                    <tr class="bg-primary-green2">
+                        <th class="border-[0.5px] border-primary-gray2 p-2">
+                          <p class="text-sm font-inter font-medium text-primary-dark">প্রারম্ভিক স্টেশন (ছাড়ার সময়)</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                          <p class="text-sm font-inter font-medium text-primary-dark">রাজবাড়ি (পৌঁছানোর সময়)</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                          <p class="text-sm font-inter font-medium text-primary-dark">রাজবাড়ি থেকে (ছাড়ার সময়)</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                   <tr>
+                        <td class="border-[0.5px] border-primary-gray2 p-2">
+                          <p class="text-sm font-inter font-normal text-primary-default">রাত ৯ টা ৪৫ মিনিট</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                          <p class="text-sm font-inter font-normal text-primary-default">রাত ২ টা ২০<br> মিনিট</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                          <p class="text-sm font-inter font-normal text-primary-default">রাত ২ টা ২৫ মিনিট</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div><!-------sondorbon express end---------->
+    <!-------rajbari express 1 start---------->
+    <div class="p-4 rounded-xl bg-primary-gray mb-6">
+        <h2 class="text-base font-inter font-semibold text-primary-dark">রাজবাড়ি এক্সপ্রেস-১</h2>
+        <div class="flex  justify-between items-center mb-2">
+            <p class="text-sm font-inter font-normal text-primary-dark">ট্রেনের ধরনঃ কমিউটার</p>
+            <p class="text-xs font-inter font-normal text-primary-green3">প্রতিদিন সচল থাকে</p>
+        </div>
+        <div class="mb-2 rounded-lg">
+            <table class="border-collapse border-[0.5px] border-primary-gray2 w-full text-center">
+                <thead>
+                    <tr class="bg-primary-green2">
+                        <th class="border-[0.5px] border-primary-gray2 p-2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">প্রারম্ভিক স্টেশন</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">গন্তব্য স্টেশন</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="border-[0.5px] border-primary-gray2 p-2">
+                            <p class="text-sm font-inter font-normal text-primary-default">রাজবাড়ি</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-normal text-primary-default">ভাঙ্গা</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="rounded-lg">
+            <table class="border-collapse border-[0.5px] border-primary-gray2 w-full text-center">
+                <thead>
+                    <tr class="bg-primary-green2">
+                        <th class="border-[0.5px] border-primary-gray2 p-2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">প্রারম্ভিক স্টেশন (ছাড়ার সময়)</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">গোয়ালন্দ (পৌঁছানোর সময়)</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">গোয়ালন্দ (ছাড়ার সময়)</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="border-[0.5px] border-primary-gray2 p-2">
+                            <p class="text-sm font-inter font-normal text-primary-default">রাত ৯ টা ৪৫ মিনিট</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-normal text-primary-default">রাত ২ টা ২০<br> মিনিট</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-normal text-primary-default">রাত ২ টা ২৫ মিনিট</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div><!-------rajbari express 1 end---------->
+    <div class="h-[1px] border border-primary-light mb-6"></div>
+    <!-----up train end----->
+    <!-------down train start--------->
+    <div class="mb-4 flex justify-center">
+        <div class="py-1 px-6 border border-primary-gray1 rounded-[4px] w-[136px]">
+            <p class="font-inter text-sm font-normal text-primary-green">ডাউন ট্রেন সমূহ</p>
+        </div>
+    </div>
+    <!-------sondorbon express start---------->
+    <div class="p-4 rounded-xl bg-primary-gray mb-4">
+        <h2 class="text-base font-inter font-semibold text-primary-dark">সুন্দরবন এক্সপ্রেস</h2>
+        <div class="flex  justify-between items-center mb-2">
+            <p class="text-sm font-inter font-normal text-primary-dark">ট্রেনের ধরনঃ আন্তঃনগর</p>
+            <p class="text-xs font-inter font-normal text-primary-green3">প্রতিদিন সচল থাকে</p>
+        </div>
+        <div class="mb-2 rounded-lg">
+            <table class="border-collapse border-[0.5px] border-primary-gray2 w-full text-center">
+                <thead>
+                  <tr class="bg-primary-green2">
+                    <th class="border-[0.5px] border-primary-gray2 p-2">
+                        <p class="text-sm font-inter font-medium text-primary-dark">প্রারম্ভিক স্টেশন</p>
+                    </th>
+                    <th class="border-[0.5px] border-primary-gray2">
+                        <p class="text-sm font-inter font-medium text-primary-dark">গন্তব্য স্টেশন</p>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="border-[0.5px] border-primary-gray2 p-2">
+                        <p class="text-sm font-inter font-normal text-primary-default">ঢাকা</p>
+                    </td>
+                    <td class="border-[0.5px] border-primary-gray2">
+                        <p class="text-sm font-inter font-normal text-primary-default">খুলনা</p>
+                    </td>
+                  </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="rounded-lg">
+            <table class="border-collapse border-[0.5px] border-primary-gray2 w-full text-center">
+                <thead>
+                    <tr class="bg-primary-green2">
+                        <th class="border-[0.5px] border-primary-gray2 p-2">
+                          <p class="text-sm font-inter font-medium text-primary-dark">প্রারম্ভিক স্টেশন (ছাড়ার সময়)</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                          <p class="text-sm font-inter font-medium text-primary-dark">রাজবাড়ি (পৌঁছানোর সময়)</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                          <p class="text-sm font-inter font-medium text-primary-dark">রাজবাড়ি থেকে (ছাড়ার সময়)</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                   <tr>
+                        <td class="border-[0.5px] border-primary-gray2 p-2">
+                          <p class="text-sm font-inter font-normal text-primary-default">রাত ৯ টা ৪৫ মিনিট</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                          <p class="text-sm font-inter font-normal text-primary-default">সকাল ১০ টা ২০ মিনিট</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                          <p class="text-sm font-inter font-normal text-primary-default">সকাল ১০ টা ৩০ মিনিট</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div><!-------sondorbon express end---------->
+    <!-------rajbari express 2 start---------->
+    <div class="p-4 rounded-xl bg-primary-gray mb-6">
+        <h2 class="text-base font-inter font-semibold text-primary-dark">রাজবাড়ি এক্সপ্রেস-২</h2>
+        <div class="flex  justify-between items-center mb-2">
+            <p class="text-sm font-inter font-normal text-primary-dark">ট্রেনের ধরনঃ কমিউটার</p>
+            <p class="text-xs font-inter font-normal text-primary-green3">প্রতিদিন সচল থাকে</p>
+        </div>
+        <div class="mb-2 rounded-lg">
+            <table class="border-collapse border-[0.5px] border-primary-gray2 w-full text-center">
+                <thead>
+                    <tr class="bg-primary-green2">
+                        <th class="border-[0.5px] border-primary-gray2 p-2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">প্রারম্ভিক স্টেশন</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">গন্তব্য স্টেশন</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="border-[0.5px] border-primary-gray2 p-2">
+                            <p class="text-sm font-inter font-normal text-primary-default">ভাঙ্গা</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-normal text-primary-default">রাজবাড়ি</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="rounded-lg">
+            <table class="border-collapse border-[0.5px] border-primary-gray2 w-full text-center">
+                <thead>
+                    <tr class="bg-primary-green2">
+                        <th class="border-[0.5px] border-primary-gray2 p-2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">প্রারম্ভিক স্টেশন (ছাড়ার সময়)</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">গোয়ালন্দ (পৌঁছানোর সময়)</p>
+                        </th>
+                        <th class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-medium text-primary-dark">গোয়ালন্দ (ছাড়ার সময়)</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="border-[0.5px] border-primary-gray2 p-2">
+                            <p class="text-sm font-inter font-normal text-primary-default">রাত ৯ টা ৪৫ মিনিট</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-normal text-primary-default">রাত ২ টা ২০<br> মিনিট</p>
+                        </td>
+                        <td class="border-[0.5px] border-primary-gray2">
+                            <p class="text-sm font-inter font-normal text-primary-default">রাত ২ টা ২৫ মিনিট</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div><!-------rajbari express 2 end----------> 
 </body>
 </html>
