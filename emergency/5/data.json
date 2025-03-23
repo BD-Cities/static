@@ -1,22 +1,22 @@
 [
     {
         "title": "পুলিশ স্টেশনসমূহ",
-        "image": "emergency/49/images/police.png",
-        "html": "emergency/49/police.html"
+        "image": "emergency/5/images/police.png",
+        "html": "emergency/5/police.html"
     },
     {
         "title": "ফায়ার সার্ভিস",
-        "image": "emergency/49/images/fire-service.png",
-        "html": "emergency/49/fire-service.html"
+        "image": "emergency/5/images/fire-service.png",
+        "html": "emergency/5/fire-service.html"
     },
     {
         "title": "অ্যাম্বুলেন্স সার্ভিস",
-        "image": "emergency/49/images/ambulance.png",
-        "html": "emergency/49/ambulance.html"
+        "image": "emergency/5/images/ambulance.png",
+        "html": "emergency/5/ambulance.html"
     },
     {
         "title": "অন্যান্য সার্ভিস",
-        "image": "emergency/49/images/others.png",
-        "html": "emergency/49/others.html"
+        "image": "emergency/5/images/others.png",
+        "html": "emergency/5/others.html"
     }
 ]
