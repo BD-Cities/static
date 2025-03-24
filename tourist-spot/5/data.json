@@ -1,0 +1,58 @@
+[
+    {
+        "title": "নিঝুম দ্বীপ",
+        "location": "হাতিয়া",
+        "image": "tourist-spot/5/images/nijom-dip.png",
+        "html": "tourist-spot/5/nijom-dip.html",
+        "map": "https://maps.app.goo.gl/thZz25a3c4qVFgi2A"
+    },
+    {
+        "title": "গান্ধী আশ্রম",
+        "location": "জয়াগ, সোনাইমুড়ী",
+        "image": "tourist-spot/5/images/gandi.png",
+        "html": "tourist-spot/5/gandi.html",
+        "map": "https://maps.app.goo.gl/a3vC53groqeKvSGN9"
+    },
+    {
+        "title": "বজরা শাহী মসজিদ",
+        "location": "বজরা, সোনাইমুড়ী",
+        "image": "tourist-spot/5/images/bozra.png",
+        "html": "tourist-spot/5/bozra.html",
+        "map": "https://maps.app.goo.gl/YvBQi3kgBmBbSkZq5"
+    },
+    {
+        "title": "মুছাপুর ক্লোজার",
+        "location": "কোম্পানীগঞ্জ, নোয়াখালী",
+        "image": "tourist-spot/5/images/mosapur.png",
+        "html": "tourist-spot/5/mosapur.html",
+        "map": "https://maps.app.goo.gl/zA6VAfZubwx4tsFY7"
+    },
+    {
+        "title": "বীরশ্রেষ্ঠ রুহুল আমিন গ্রন্থাগার ও স্মৃতি জাদুঘর",
+        "location": "বাগপাচরা, সোনাইমুড়ী",
+        "image": "tourist-spot/5/images/ruhul.png",
+        "html": "tourist-spot/5/ruhul-amin.html",
+        "map": "https://maps.app.goo.gl/9WiAm89hdfsebpBZ7"
+    },
+    {
+        "title": "নোয়াখালী জেলা জামে মসজিদ",
+        "location": "মাইজদী, নোয়াখালী",
+        "image": "tourist-spot/5/images/masjid.png",
+        "html": "tourist-spot/5/masjid.html",
+        "map": "https://maps.app.goo.gl/TU8qTtcDWVyPA5uS6"
+    },
+    {
+        "title": "মাইজদী কোর্ট বিল্ডিং দীঘি",
+        "location": "মাইজদী, নোয়াখালী",
+        "image": "tourist-spot/5/images/mijodi-court.png",
+        "html": "tourist-spot/5/mijodi-court.html",
+        "map": "https://maps.app.goo.gl/T3LQu6H6aXvjgeSRA"
+    },
+    {
+        "title": "নোয়াখালী ড্রিম ওয়ার্ল্ড পার্ক",
+        "location": "ধর্মপুর, নোয়াখালী",
+        "image": "tourist-spot/5/images/dream-park.png",
+        "html": "tourist-spot/5/dream-park.html",
+        "map": "https://maps.app.goo.gl/kngMccP6E3NNSaXs8"
+    }
+]
