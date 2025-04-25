@@ -2,31 +2,76 @@
     {
         "title": "রাজবাড়ী স্টেশন",
         "image": "train-schedule/49/images/rajbari.jpg",
-        "html": "train-schedule/49/soon.html"
+        "html": "train-schedule/49/rajbari-sadar.html"
     },
     {
         "title": "গোয়ালন্দ ঘাট স্টেশন",
-        "image": "train-schedule/49/images/goalanda.jpg",
+        "image": "train-schedule/49/images/goalondo-gat.jpg",
+        "html": "train-schedule/49/goalondo-ghat.html "
+    },
+    {
+        "title": "গোয়ালন্দ বাজার স্টেশন",
+        "image": "train-schedule/49/images/Goalundo-bajar.jpg",
         "html": "train-schedule/49/soon.html"
     },
     {
         "title": "পাংশা স্টেশন",
-        "image": "train-schedule/49/images/rajbari.jpg",
-        "html": "train-schedule/49/soon.html"
+        "image": "train-schedule/49/images/pangsha-station.jpg",
+        "html": "train-schedule/49/pangsha.html"
     },
     {
         "title": "কালুখালী স্টেশন",
         "image": "train-schedule/49/images/kalukhali.jpg",
-        "html": "train-schedule/49/soon.html"
+        "html": "train-schedule/49/kalukhali.html"
     },
     {
-        "title": "বালিয়াকান্দি স্টেশন",
-        "image": "train-schedule/49/images/goalanda.jpg",
-        "html": "train-schedule/49/soon.html"
+        "title": "পাচুরিয়া স্টেশন",
+        "image": "train-schedule/49/images/pacuria.jpg",
+        "html": "train-schedule/49/pchuria.html"
     },
     {
-        "title": "ভাটিয়াপাড়া স্টেশন",
-        "image": "train-schedule/49/images/kalukhali.jpg",
-        "html": "train-schedule/49/soon.html"
+        "title": "খানখানাপুর স্টেশন",
+        "image": "train-schedule/49/images/khankanapur.jpg",
+        "html": "train-schedule/49/khankanapur.html"
+    },
+    {
+        "title": "মাছপাড়া স্টেশন",
+        "image": "train-schedule/49/images/maspara.jpg",
+        "html": "train-schedule/49/machpara.html"
+    },
+    {
+        "title": "নলিয়াগ্রাম স্টেশন",
+        "image": "train-schedule/49/images/noliagram.jpg",
+        "html": "train-schedule/49/noliagram.html"
+    },
+    {
+        "title": "রামদিয়া স্টেশন",
+        "image": "train-schedule/49/images/ramdia.png",
+        "html": "train-schedule/49/ramdia.html"
+    },
+    {
+        "title": "সূর্যনগর স্টেশন",
+        "image": "train-schedule/49/images/sorjonogor.jpg",
+        "html": "train-schedule/49/surjonagar.html"
+    },
+    {
+        "title": "বসন্তপুর স্টেশন",
+        "image": "train-schedule/49/images/bosontopur.png",
+        "html": "train-schedule/49/bosontopur.html"
+    },
+    {
+        "title": "বহরপুর স্টেশন",
+        "image": "train-schedule/49/images/bohorpur.jpg",
+        "html": "train-schedule/49/bohorpur.html"
+    },
+    {
+        "title": "বেলগাছি স্টেশন",
+        "image": "train-schedule/49/images/belgasi.jpg",
+        "html": "train-schedule/49/belgaci.html"
+    },
+    {
+        "title": "আড়কান্দি স্টেশন",
+        "image": "train-schedule/49/images/arkandi.jpg",
+        "html": "train-schedule/49/arkandi.html"
     }
 ]
