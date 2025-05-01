@@ -12,5 +12,26 @@
         "image": "tourist-spot/49/images/mir-mosarof.jpg",
         "html": "tourist-spot/49/mir-mosarof.html",
         "map": "https://maps.app.goo.gl/94JjWuSRwGaMKNKS6"
+    },
+    {
+        "title": "গল্পগৃহ রিসোর্ট (UK Beach)",
+        "location": "উড়াকান্দা,রাজবাড়ী সদর উপজেলা",
+        "image": "tourist-spot/49/images/golpo-1.jpg",
+        "html": "tourist-spot/49/uk-beach.html",
+        "map": "https://maps.app.goo.gl/SVyaR9FrLak363Cu9"
+    },
+    {
+        "title": "রাজবাড়ী শিশুপার্ক",
+        "location": "৩নং বেড়াডাঙা,রাজবাড়ী সদর",
+        "image": "tourist-spot/49/images/sisopark-1.jpg",
+        "html": "tourist-spot/49/sisopark.html",
+        "map": "https://maps.app.goo.gl/3FXpMax2CCptD7Z57"
+    },
+    {
+        "title": "গোধুলি পার্ক",
+        "location": "জমিদার ব্রিজ,গোয়ালন্দ উপজেলা",
+        "image": "tourist-spot/49/images/godhuli-1.jpg",
+        "html": "tourist-spot/49/godoli-park.html",
+        "map": "https://maps.app.goo.gl/ChUDTN1FookqJdoR6"
     }
 ]
